@@ -1,5 +1,3 @@
-### Filippos Polyzos
-
 <p>
 <a href="https://www.r-project.org/"><img src="https://img.shields.io/badge/Made%20with-R-276DC3?logo=r&logoColor=white" alt="R" /></a>
 <a href="https://filippospol.github.io/bball-projects/"><img src="https://img.shields.io/badge/Projects-filippospol.github.io-2ea44f?logo=githubpages&logoColor=white" alt="Projects" /></a>
